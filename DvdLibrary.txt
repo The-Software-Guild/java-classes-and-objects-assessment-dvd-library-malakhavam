@@ -1,0 +1,7 @@
+The Shawshank Redemption::1995-02-17::R::Frank Darabont::9::Castle Rock Entertainment
+The Godfather::1972-03-24::R::Francis Ford Coppola::8::Paramount Pictures
+The Dark Knight::2008-07-18::R::Christopher Nolan::7::Warner Bros. Pictures
+Schlinder's List::1994-02-18::R::Steven Spielberg::10::Amblin Entertainment
+The Lord of the Rings The Return of the King::2003-12-17::PG-13::Peter Jackson::9::New Line Cinema
+Forrest Gump::1994-07-06::PG-13::Robert Zemeckis::10::Paramount Pictures
+Fight Club::1999-11-11::R::David Fincher::10::20th Century Studios
